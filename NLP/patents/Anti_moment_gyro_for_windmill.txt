@@ -1,0 +1,41 @@
+Description
+BACKGROUND OF THE IVENTION
+1. Field of the Invention
+
+This invention generally relates to a method to reduce stresses in rotating members. It uses the forces developed by the precession of a rotating body or gyro, whose axis is parallel with the length of the rotating member or blades.
+
+2. Description of Prior Art
+
+Because of the economics of scale, future windmill systems will be as large as possible. Windmill blades in excess of 300 feet in diameter are now being constructed. These large sizes place tremendous forces or moments on the blades. The forces demand stronger, heavier, and thicker blades. Thus, blades assume a geometry which causes larger air drag as the blades pass through the air.
+
+Likewise the larger blades used on commercial helicopters demand methods to decrease weight of the blades. A method that would reduce forces and thus the weight and air resistance of the blade, will improve the payload potential of a helicopter.
+
+Gyros have for years been used to produce forces within systems. For example, the use of gyros to keep devices in a desired position or to control pitch on boats. The forces developed by gyros as a result of precession are well understood and can be mathematically determined.
+
+It is the object of this invention to reduce stresses in rotating members. This stress reduction will allow the reduction of weight in the blade and its supporting structure. Optimization should also allow the reduction of blade thickness resulting in less resistance as it passes through the air.
+
+SUMMARY OF THE INVENTION
+According to the present invention, a rotating body or gyro is attached to the length of a rotating member or blade. The gyro is placed so its axis is parallel to the rotating blade. The force or moment imposed by the gyro's precession is counter to that imposed on the blades due to the acting forces or wind.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+FIG. 1 is a perspective of the anti-moment gyro attached to a windmill.
+
+FIG. 2 is a detail of the gyro assembly on the wind blade and a self-actuating device consisting of a turbine and wind deflector.
+
+FIG. 3 is a detail of the gyro assembly on the wind blade showing the gyro powered by a motor.
+
+DESCRIPTION OF THE PREFERRED EMBODIMENT
+Referring to FIG. 1, there is shown a preferred embodiment of the invention as it would be applied and used to reduce forces in a wind blade. As seen, the windmill 1 is equipped with rotating wind blades 2. The blades turn, producing power in the windmill mechanism. On the blade 2, a rotating body assembly or gyro 3 is attached. As shown in FIG. 2 the gyro's rotating body 4 is a heavy wheel which rotates on spokes 5 and a hub 6 from the windmill shaft 7. In this particular arrangement, a deflector blade 8 is placed on the leading edge of the wind blade 2 in such a way as to direct air up and through the spokes 5 which have been sloped and pitched to act as an air turbine . . . thus the air directed through the turbine imposes a rotation to the spokes 5 gyro assembly.
+
+OPERATION
+The operation of the invention depends on the rotation of the gyro 3 and its precession when the blades 2 turn, all of which result in a force moment on the blades. As indicated, the force will be counter to the forces normally applied to the blades from the wind when the rotation of the gyro is proper. The rotation of the gyro as shown in FIG. 2 is imposed from air as it is directed from the deflector 8 up and through the turbine spokes 5 of the gyro assembly.
+
+In an alternate method of rotating the gyro, FIG. 3. shows that the gyro 4 is rotated about the rotor member shaft 7, which is located on and is a part of the rotating member 2. The gyro 4 is driven by an electric or hydraulic motor 9, and necessary drive member 10.
+
+It will be understood that the foregoing description is the preferred embodiment of the invention and is therefore merely representative. Obviously, there are many possible variations and modifications of the present invention in light of the above teachings. For example:
+
+1. Different types of drives for the gyro assembly such as electric, hydraulic, pneumatic motors, or gear or belt driven from the windmill hub.
+
+2. A gyro assembly may be attached to helicopter blades.
+
+3. A gyro gimbal which allows the gyro assembly to rotate perpendicular to the gyro's normal rotational axis to prevent an unwanted force on the blades when the direction of the wind changes and the windmill is reoriented. It is recommeded that only one direction of freedom of the gimbal is allowed so reorientation will not impose unwanted forces in one direction of orientation but would help the windmill turn the blade when being reoriented in the opposite direction. The turn of the gimbal would be implemented by mechanical means.

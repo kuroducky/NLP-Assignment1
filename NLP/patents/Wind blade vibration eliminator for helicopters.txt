@@ -1,0 +1,81 @@
+Description
+BACKGROUND
+1. Field of the Invention
+
+This invention relates to wind blades and specifically to a device rotating helicopter airfoils or wind blades that will reduce in the wind blade and its related structure. The device as presented, imposes variable moment forces to the blade which are induced by a gyro which has an adjustable precessional rotational rate. The invention is shown applied to helicopter blades.
+
+2. Cross Reference to Related Applications
+
+This invention uses the concept of gyro moment forces to introduce torque forces which are counter to the normal blade forces. An earlier patent, U.S. Pat. No. 4,302,152, describes a constant moment gyro device used on windmills to impose a counter force on an airfoil. The reference Patent does not however provide a means to vary the counter moment force.
+
+3. Discussion of Prior Art
+
+Wind blades are subject to cyclic forces. Cyclic forces produce unwanted blade deflection and vibrations. Vibrations can seriously degrade service life of the equipment by overstressing, fatigue, and wear of components.
+
+In windmills, a cyclic force on the blade is caused by the wind shadow from the supporting structure. This often requires the use of "before the structure" wind blades which increases the orientation problems of the windmill system.
+
+In helicopters, the cyclic forces are the result of:
+
+(a) various lifting forces on the blades since the blade speed differs in respect to still air due to the aircraft's horizontal movement, by
+
+(b) the blade pitch changes imposed for directional control, by
+
+(c) air movements from or to the associated structures, and by
+
+(d) agitating ground resonance.
+
+Cyclic force vibrations are one of the major factors limiting speed of forward flight for helicopters. Secondary vibrations within the body of the aircraft are also a major concern and require absorbing components to limit their influence.
+
+A basic method to reduce the metal stresses in blades is to provide heavier and thicker blades. This approach introduces unwanted weight and air drag to the system. Others have reduced vibrational stresses in rotating members by using "flapping hinges" on the blade/rotor assembly. Other "tuning" or vibrational damping devices have been used on blades and within associated structures. These devices add significantly to the weight and complexity of the aircraft.
+
+Gyros or gyroscopes are weighted spinning bodies. They are well understood and their associated forces can be mathematically determined. Gyros have been used in positional control devices such as pitch control in ships. Precession is the term used for the turning of a gyro's axis. It is the characteristics of a gyro that as the gyro is precessed, it produces a torque at right angles to the precession. The torque from the precession, is proportional to the spinning speed of the gyro and the rotational rate of the precession.
+
+SUMMARY OF THE INVENTION
+According to the present invention, a variable precessioned gyro is attached to the wind blade. The gyro's spinning axis is normally in-line with the blade's length. As the blade turns the gyro is precessed, producing a torque or moment force that is directed 90° to the precession of the gyro or directly counter to the normal wind forces applied to the blade. This invention considers the dynamic cyclic forces on the blade as it rotates and is subjected to cyclic stresses, deflection and vibration. As a deflection is measured, the gyro positioner is adjusted so that the gyro torque forces are added to or relieved from the blade by adjusting the rate of gyro precession. Variable precessional rates are achieved by pivoting the gyro using a positioning device. The applied force reqired to position the gyro is directed against the wind blade's wide cross-section instead of the narrow section and thus the applied forces becomes a minor element in the blade's total stress or deflection.
+
+BRIEF DESCRIPTION OF THE DRAWINGS
+FIG. 1 is a schematic of the device as it would be applied to a helicopter blade;
+
+FIG. 2 is a detailed schematic of the gyro assembly;
+
+FIG. 3 represents action of the gyro's position as a function of time;
+
+FIG. 4 details a strain gage measurement method for the gyro positioner;
+
+FIG. 5 details a laser light measurement method for the gyro positioner; and
+
+FIG. 6 shows a coverlet for the gyro wheel.
+
+DESCRIPTION OF THE PREFERRED EMBODIMENT
+Referring to the figures, there is shown the preferred embodiment of the invention as it would be applied to limit vibrations in helicopter blades. As seen in FIG. 1, helicopter 1 has rotating wind blades 2 and attached to the said blades are two gyro assemblies 3 and 3'.
+
+In FIG. 2, there is shown the details of the gyro assembly 3. The assembly consists of the gyro 4 attached to the power shaft 5 and the rotating motor 6. The assembly is allowed to pivot in respect to the blade from pivot point 7 and 7'. Positioning is accomplished from the force applied to the connecting positioner's point 8 and the positioner's connecting shaft 9, which moves in respect to the positioner's power device 10. The positioner's power device 10 is attached to the blade 2 with a positioner's device pivot 11. The rotating motor is driven with an electric, hydraulic or pneumatic power source transmitted through the power line 21. The positioner's power device is operated from a control signal in the control signal line 22 which controls a transducer 14 which in turn, controls the electric, hydraulic or pneumatic power from the control power line 15.
+
+In FIG. 3, there is shown a sequence of gyro positions in respect to time, and the drawing is used to describe the assembly's action in various positions in the Operation paragraph. The positional action may be a predetermined sequence or by controlled means shown in FIGS. 4 and 5.
+
+In FIG. 4, there is shown a gyro positioning device control. It uses a strain gage 12 which modifies a signal which indicates the blade's strain or deflection and which is enhanced in the amplifier device 13. The corrective signal is transmitted to a transducer 14 through the control signal line 22. The positioner power can be hyraulic, pneumatic or electric, and is transmitted through the control power line 15 to the said transducer 14, and through flexible connecting lines 16 and 16' as a positioning signal for the positioner's power device 10.
+
+In FIG. 5, there is shown a gyro positioning method using a laser light device. In this arrangement, a laser beam source 17 is attached to the blade and its light beam 18 is directed to a laser sensor 19. The laser sensor uses a series of light sensitive elements that can be used to indicate the position of the laser light beam on the sensor and to produce a corrective signal that is directed to the correction amplifier 13 and onto the signal transducer 14. A corrective signal is sent to the positioner's power device 10 which will control the gyro precession and thus the blade's deflection.
+
+In FIG. 6, there is shown a coverlet 20 over the gyro.
+
+OPERATION
+As wind blades rotate, varying or cyclic forces are imposed on the blade. Blades deflect due to the said imposed blade forces and the deflection is aggravated by the natural resonance of the blade. The result is unwanted vibrations that produce high blade stresses. The operation of this invention depends on the moment or torque that can be imposed on a wind blade from the precession of a gyro. Normal blade forces can be countered by the moment force from a gyro attached to the blade and resulting from the precessional rate of the gyro. The cyclic or variable forces can be countered by a variable torque induced by varying the precessional rate of the gyro.
+
+In this invention, the control of the positioner may be predetermined or the bladed deflection can be measured and the positioner controlled with a strain gage method as shown in FIG. 4 or a laser sensor method as shown in FIG. 5. The input signal can be electronically modified in the signal amplifier with corrections for blade rotational position, gyro's position, system time response, and rate of change of the deflection. The developed signal can then be sent to the positioner to vary the rate of precession of the gyro.
+
+An example of the invention's operation is described in sequence diagrams of FIG. 3. At time period (a) the gyro's spin axis is shown in line to the axis of the blade. As the blade is rotated from position (a) to position (b), the gyro is precessed. A torque force is imposed on the blade, 90° to the precessional rotation of the gyro and counter the normal moment forces on the blade.
+
+Between position (b) and (c), it is demonstrated a reduction of blade forces which allows the blade (on a helicopter) to flap downwards. This may be the result of the change of respective speed of the blade in the air, wind shadow, control pitch, or such. This deflection is measured by the blade's deflection sensor and a corresponding signal is sent to the positioner's power device. The assembly will then be rotated to effectively slow down the gyro's precession and thus reducing the gyro's torque force thereby maintaining a more constant blade total moment force and reducing the deflection caused by the cycling forces on the blade.
+
+As the blade moves to position (d) and (e), and is again subjected to a more typical blade force, the new deflection is sensed. A signal is sent to the positioner and the gyro is fixed into position in respect to the blade or is forced back into the original position in respect to the blade. Either will apply a strong counter torque on the blade.
+
+The coverlet can be provided to cut air drag. The coverlet can also be used to reduce blade tip air vortices and the coverlet can be pitched to induce extra air over the wind blades and thus improve blade performance.
+
+It will be understood that the foregoing description is the preferred embodiment of the invention and is therefore merely representative. Obviously, there are many possible variations and modifications of the present invention in light of the above teachings. For example:
+
+1. A combined motor and gyro wheel.
+
+2. Various positions and mounting arrangements of the gyro assembly on the blades.
+
+3. A gyro wheel shaped to limit air drag.

@@ -1,0 +1,29 @@
+I have a counter of a variable, 'A', that evolves over time (in seconds). I would like to know for each instance of getting 'A', how long it takes for that to be cancelled out. It may be the case that an initial instance is cancelled out using multiple later instances. The dataframe I have looks something like this:
+
+df = pd.DataFrame(columns = ['time', 'A'])
+df.time = [1, 2, 3, 4, 5, 6, 7, 8]
+df.A = [2, 6, 5, -2, -8, -7, 3, 4]
+df
+    time  A 
+0   1     2 
+1   2     6 
+2   3     5 
+3   4     -2 
+4   5     -8 
+5   6     -7 
+6   7     3
+7   8     4
+Now, what I would like to get is the time difference between the initial A, and when A is reduced again. For example, for the first 2, it takes 3 seconds to cancel those 2. Thus, the expected result would be:
+
+    A   time_diff  left_on_later_instance
+0   2   3          0
+1   6   3          2
+2   2   2          0
+3   3   3          4
+4   -3  1          1
+5   -1  2          0
+6   -3  end        0
+Note that I would like to truncate when A is not reduced anymore, for which I have used the string 'end' here, but that is not required in any way. Also, an instance of A might be very big, such that it could take >100 other instances before it is completely cancelled out, so simply adding 100 more columns and going over it like that does not work. I would rather not use something like itterrows() as that would take too much time.
+
+I'm not really sure where to start, so any pointers are much appreciated. Thank you!
+

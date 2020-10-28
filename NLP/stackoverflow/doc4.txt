@@ -1,0 +1,22 @@
+I want to delete a branch both locally and remotely.
+
+Failed Attempts to Delete a Remote Branch
+git branch -d remotes/origin/bugfix
+error: branch 'remotes/origin/bugfix' not found.
+
+git branch -d origin/bugfix
+error: branch 'origin/bugfix' not found.
+
+git branch -rd origin/bugfix
+Deleted remote branch origin/bugfix (was 2a14ef7).
+
+git push
+Everything up-to-date
+
+git pull
+From github.com:gituser/gitproject
+
+* [new branch] bugfix -> origin/bugfix
+Already up-to-date.
+
+What should I do differently to successfully delete the remotes/origin/bugfix branch both locally and remotely?

@@ -1,0 +1,60 @@
+Description
+June 2, 1953 w E, ABEL 2,640,314
+
+DISK VALVE PULSE JET ENGINE Filed Dec. 16, 1949 2 Sheets-Sheet 1 June 2, 1953 w. E. ABEL 2,640,314
+
+DISK VALVE PULSE JET ENGINE Filedneo. 16, 1949 2 sheets-sheet 2 By MMM/@Mm Umb/am Patented June 2, 1953 UNITED STATES PATE'lGFFICEl 3 Claims.
+
+This invention relates to jet engines, and more particularly to propulsiva jet engines of the type suitable for use as power units for aircraft and other vehicles.
+
+A main object of the invention is to provide a novel and improved jet engine which is simple in construction, light in weight, and very economical in utilization of fuel.
+
+A further object of the invention is to provide an improved jet engine of the pulse type wherein fuel and air are mixed in explosive proportions, drawn into a combustion chamber, ignited, and then expelled from the engine, producing the desired thrusts, the engine involving only a few parts, which are inexpensive to manufacture, the engine being sturdy in construction, and being very efcient in performance.
+
+Further objects and advantages of the invention will become apparent from the following description and claims, and from the accompanying drawings, wherein:
+
+Figure 1 is a longitudinal vertical cross-sectional View taken through an improved jet engine constructed in accordance with the present invention, the electrical ignition circuit of the engine being shown in schematic form;
+
+Figure 2 is a front end view of the engine of Figure 1;
+
+Figure 3 is a transverse vertical cross-sectional view taken on line 3 3 of Figure 1 Figure 4 is a view similar to Figure 3, but showing the valve disc of the engine in ignition position;
+
+Figure 5 is a view similar to Figure 4, but showing the valve disc of the engine in a position subsequent to ignition and approaching exhaust;
+
+Figure 6 is a rear end view of the jet engine of Figure 1;
+
+Figure '7 is an enlargement of the intermediate portion of Figure 3, showing in detail -view the planetary gear arrangement for driving the valve disc of the engine;
+
+Figure 8 is an enlarged detail elevational view showing the breaker points and operating cam of the ignition system for the engine, as employed in Figure l.
+
+Referring to the drawings, the engine comprises `an elongated shell or body I I having a main portion I2 and a reduced tailportion i3. Main portion I2 tapers at its forward end, as shown at I4, i
+
+and is provided at said forward end with the air intake opening l5. Designated at I6 is the fuelsupply conduit, which is secured in the tapered forward Wall portion III of the body II and extends through said portion I4 terminating in a ber I8 which is formed with diametrically-opposed, radially-flaring openings I9, I2. Secured in the central portion of disc member I8 is a bearing sleeve 20. Designated at 2| is a disc member formed with an axial sleeve 22 which is rotatably received in the bearing sleeve 2|). Disc member 2| is formed with diametrically-opposed,
+
+vradially-daring openings 23, 23 which are registrable with the respective openings I9, I 9 of the fixed disc member I8. Y
+
+Secured in the tail portion I3 is a diametricall'ydisposed bar member 2li provided at its central portion with a bearing sleeve 25. Designated at 25 is an axial shaft which is rotatably mounted at its forward portion in the sleeve 22 and at its rear portion in the sleeve 25. Secured to the rear end of shaft 26 is a turbine wheel 21 which is located in the tail portion I4 of body II, as shown in Figure 1. Shaft 2t extends rotatably through a xed turbo-blower section 28 secured in the tapered forward portion Ili of the body Secured to the shaft 26 forwardly adjacent fixed turbo-blower section 28 is a turbo-blowerwheel 29, and secured to said shaft rearwardly adjacent fixed turbo-blower section 23 vis another turboblower wheel 38. The blades of wheels 29, 30 and 2l are shaped and angled in the conventional manner to define flaring nozzle passages therebetween, whereas the radial blades of section 23 are shaped to dene straight passages therebetween.
+
+Secured on shaft 26 rearwardly adjacent valve disc 2| is a gear 3|. Secured to disc 2| concentrically with gear 3| isa ring gear 32 having inwardly directed teeth.. Ring gear 32 has a peripheral, inwardly directed. retaining flange 33, and rotatably positioned in the ring gear inwardly adjacent said iiange are respective planetary gears 34, 34 which are in mesh with gear 3| and the teeth of ring gear 32. The gears 3 I, 31| Iand 32 are arranged so that rotation of shaft 26 drives disc 2| in the same direction as shaft 2E, but prefervably at from one-eighth to one-half the speed thereof.
+
+Secured to disc 2| is a rearwardly tapering housing 35 which covers the gears and which carries at its rear end a sleeve 36 through which shaft 26 rotatably extends. Secured to fixed disc I8 is a forwardly tapering annular shell 3l. Wheel t has centrally mountedthereon a circular plate 38 rotatably received within the-forward end of shell 3l. Mounted within the compartment defined by shell 3l is a fixed bracket SS, shown in Figure 8, carrying the spaced contact members it and 4I. Member di) is rigid, whereas member fill is resilient. Member 6|! engages a cam 42 secured on shaft 2t. Cam E2 has diametiicallyopposed projections it, i3 engageable with contact member 4| to periodically move member 4| into engagement with the rigid con-tact member 40 responsive to rotation of shaft 26. The contact members 40 and 4I are insulated from each other at their secured ends by an insulation block 44.
+
+Designated at 45 is a spark plug secured in the Wall of body portion l2 rearwardly of the valve disc 2 I, as shown in Figure 1. The contact members 40 and 4I are connected in the primary circuit of a conventional ignition system shown schematically in Figure 1, the high voltage terminal of the ignition coil 46 of the system being connected to the center electrode of the spark plug. A spark is provided across the electrodes of the spark plug twice for each rotation of shaft 26 by the opening and closing of the breaker point members 4B and 4I.
+
+In operation, the engine is started by rotating shaft 26 by any suitable means, for example, by directing a blast of air into opening I5 which passes through the members 29, 28, 3U and aligned openings I9 Iand 23 and acts on the turbine wheel 21 to drive the shaft. Air and fuel are mixed in the chamber adjacent the intake opening I5 and forms an explosive mixture which passes through the aligned openings I9 and 23 into the main body portion I2. Since shaft 2B is rotating, openings 23, 23 move out of registry with openings I9, I9, as shown in Figure 4, and ignition then occurs, exploding the mixture. The gases of combustion are expelled through the tail pipe I3, producing the propulsive thrust. These gases flow through the turbine wheel 2l, causing said wheel to rotate shaft 26.
+
+The gases are exhausted as disc 2| continues rotation, approximately to the position shown in Figure 5. When the disc 2| has been rotated 180 from its starting position, the openings 23, 23 again come into registry with the openings I9, I9, allowing a new charge of explosive mixture to be forced into the combustion chamber by the action of the wheels 29 and 3U, which coact to define a blower unit rotated by the rotating of the turbine wheel 21. The charge is ignited by spark plug 45 shortly after openings 23, 23 move out of registry with openings I9, I 9, as shown in Figure 4, causing another propulsive jet pulse to be produced. The above action repeats itself continuously, two pulses being produced for every revolution of disc valve 2l.
+
+While a specific embodiment of a jet engine of the pulse type has been disclosed in the foregoing description, it will be understood that various modifications within the spirit of vthe invention may occur to those skilled in the art. Therefore, it is intended that no limitations be placed on the invention except as defined by the scope of the appended claims.
+
+I claim:
+
+1. A jet engine comprising a tubular body having a tapering forward end, an air intake opening at the forward end of said body, an elongated reduced rear end on said body, a first apertured disc rigidly secured in the forward portion of said tubular body, an axial shaft rotatably mounted in said body and extending through said apertured disc, a blower wheel carried on said shaft forwardly of said disc, a turbine wheel carried on said shaft in said reduced rear end for rotating said shaft, means for injecting fuel into said body between the air intake at the forward ends of the body and the blower, a second apertured disc rotatably mounted adjacent said first disc for cooperation with the first disc to intermittently admit the fuel charge into said body rearwardly of said disc, a rst gear secured to said shaft, a ring gear secured to said second disc around said first gear, a planetary gear in said ring gear meshing with the ring gear and the first gear and coupling said second disc to said shaft, and ignition means in said body rearwardly of said discs.
+
+2. A jet engine comprising a tubular body having a tapering forward end, an air intake opening at the forward end of said body, an elongated reduced rear end on said body, a first apertured disc rigidly secured in the forward portion of said tubular body, an axial shaft rotatably mounted in said body and extending through said apertured disc, a blower wheel carried on said shaft forwardly of said disc, a turbine wheel carried on. said shaft in said reduced rear end for rotating said shaft, means for injecting fuel into said body between the air intake opening at the forward end of the body and the blower, a second apertured disc rotatably mounted adjacent said first disc for cooperation with the first disc to intermittently admit the fuel charge into said body rearwardly of said discs, a first gear secured to said shaft, reduction gearing coupling said first gear to said second disc for rotating said second disc at a speed less than the speed of rotation of said shaft, and ignition means in said body rearwardly of said discs.
+
+3. A j et engine comprising a tubular body having a tapering forward end, an air intake opening at the forward end of said body, an elongated reduced rear end on said body, a first apertured disc rigidly secured in the forward portion of said tubular body, an axial shaft rotatably mounted in said body and extending through said apertured disc, a blower wheel carried on said shaft forwardly of said disc, a turbine wheel carried on said shaft in said reduced rear end for rotating said shaft, means for injecting fuel into said body between the air intake opening at the forward end of the body and the blower, a second apertured disc rotatably mounted adjacent said first disc for cooperation with the first disc to intermittently admit the fuel charge into said body rearwardly of said discs, a first gear secured to said shaft, reduction gearing coupling said first gear to said second disc for rotating said second disc at a speed less than the speed of rotation of said shaft, ignition means in said body rearwardly of said discs, and means on said second disc for actuating said ignition means in timed relation to the rotation of said second disc.
+
+WILLIAM E. ABEL.
+
+References Cited in the file of this patent UNITED STATES PATENTS Number Name Date 2,474,359 Isacco June 28, 1949 -2,480,626 Bodine Aug. 30, 1949 2,485,813 Carlson Oct. 25, 1949 2,515,644 Goddard July 18, 1950 2,595,505 Bachle May 6, 1952 2,682,289 Anxionnaz July 8, 1952 FOREIGN PATENTS Number Country Date 935,322 France Feb. 2, 1948 640,228 Germany Dec. 28, 1936

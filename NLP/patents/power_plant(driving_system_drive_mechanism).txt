@@ -1,0 +1,97 @@
+Description
+The invention relates to an engine with a rotatably mounted shaft on the a rotor is rotatably arranged, an air and a fuel supply and with at least one combustion chamber and an ignition device.
+
+Engines of the type described are generally known for. B. as Jet aircraft engines. Such engines have air intake usually a multi-stage axial compressor, followed by a stationary one Combustion chamber rim on, behind the combustion chamber outlet openings arranged on the same shaft as the axial compressor one or multi-stage turbine with its rotor lying in the exhaust gas flow. This Turbine is driven by the exhaust gas flow and rotates it with the Axial compressor common shaft, so that also the axial compressor is driven. The turbine can be designed so that on Engine outlet produces only a small thrust and the entire Engine power is converted into shaft power or it can do so be designed so that the main performance of such an engine in the Thrust delivery is and only, measured against the main performance, a small one Shaft power is taken. As far as such engines as stationary Drive to be used, the total combustion chamber performance is in Shaft power implemented. The remaining thrust of the exhaust gas is here without meaning.
+
+Such engines are operated with gaseous fuels. Operation with solid fuels, such as e.g. B. Coal dust. It is easily possible to use the existing combustion chambers To feed combustion air and coal dust, so that such Engine could also be operated with coal dust. During an operation with coal dust, however, after the combustion of fine dust coke,  which is driven through the turbine in the fast and hot exhaust gas flow generates the desired shaft power. Here, however, the Rotor blades and, if available, also the stator blades through the very hard and very fast coke and are subject to high abrasion destroyed very quickly.
+
+Based on this situation, the invention is based on the object Engine of the type described above for high shaft power propose in which the described high turbine wear avoided can be.
+
+This task is based on an engine at the beginning described type in that each combustion chamber in a radial Distance to the center of rotation of the shaft is arranged on the rotor and one in for all the same circumferential direction tangentially directed exhaust outlet and an input opening directed towards the center of the shaft, which the latter are all connected to a central chamber, which in turn with a feed line running centrally through the shaft is connected, wherein this supply line with a mixture of compressed air and fuel via a decoupled supply unit can be loaded. This version can coal dust can easily be used as fuel, although that Engine can also process gaseous fuels as fuel. Characterized in that the combustion chambers are arranged outside on the rotor and as a result, rotating with the rotor, no turbine is necessary anymore should be flowed through. There are no more blades in one abrasive exhaust gas flow.
+
+According to one embodiment of the invention it is proposed that the Ignition device is arranged in the central chamber. This makes it possible to ignite with an ignition device in the central chamber and over the  internal pressure conditions of the mixture supplied from there Blow flame into the combustion chambers. The ignition in the central chamber has the advantage that there is a simple ignition device in the form of a normal spark plug can be used with the center of rotation of the shaft turns and makes no orbital movement around the turning center. This will the power supply for the ignition easier.
+
+Another embodiment of the invention provides that in the connection between the entrance opening and the central chamber in front of the entrance opening Venturi nozzle is arranged. This Venturi nozzle ensures that the air Fuel mixture during the operation of the engine before Inlet opening of each combustion chamber has a high flow rate has, so that a flashback of the flame from the combustion chamber is difficult becomes.
+
+A further embodiment provides that the cross section of the Exhaust outlet opening is smaller than the cross section of the combustion chambers. This allows the flow rate in the combustion chamber be kept considerably smaller than at the exhaust outlet. In addition, with the size of the cross section of the exhaust outlet Mass flow rate and outlet flow rate can be influenced.
+
+Another embodiment of the invention provides that the Supply unit a compressed air supply and a fuel line having compressed air and fuel before entering the supply line be mixed together. This can put the engine on a lot easy to burn ready in a separate unit prepared mixture of air and fuel z. B. in the form of a mixture of air and coal dust. It is complementary to this proposed that the compressed air line opens into an injector with  its suction area is open to the fuel line. The pouring Compressed air then entrains the coal dust on offer. The feed opening for if necessary, the cross section of the coal dust can be changed, in particular be regulated so that the engine power over the regulated mass of the coal dust supplied can also be regulated can.
+
+An alternative embodiment finally provides that as Supply unit at the free end of the shaft an axial compressor with rotor and Stator is provided, the axial compressor axially away from the rotor compresses and the stator as a compressed air supply a deflection housing has with a central fuel line. This is the engine independent of an external supply of compressed air and able to the axial compressor to cover the compressed air requirement itself. About the central The coal dust can be fed to the fuel line and here either entrained by the flowing air in the injector effect or be injected into the air stream with a slight overpressure. The one for this required overpressure can certainly from the axial compressor mentioned to be delivered.
+
+The invention will now be based on the accompanying sketches, the one Functional diagram of the engine show, are explained.
+
+Show it:
+
+Fig. 1 a longitudinal section through the engine assembly,
+
+Fig. 2 section along the line II-II of Figure 1, but without section of the central hub.
+
+Fig. 3 shows the end of the engine facing away from the combustion chambers with the engine shaft and axial compressor in a supply unit.
+
+The illustrated engine 1 essentially consists of a bearing bush 8 arranged in any desired holder, not shown, in which a shaft 5 is rotatably supported in ball bearings 6 and 7 , which are arranged in the bearing bush 8 .
+
+At a free end of the shaft 5 there is a hub 15 , on which four radially directed brackets 17 are provided.
+
+The shaft 5 is drilled in the longitudinal direction into the area of the hub 15 , this hole forming a feed line 9 . This feed line 9 ends in the central chamber 13 provided in the hub 15 . From the central chamber 13 branch radially directed radially branch lines 14 which open into the combustion chambers 16 arranged radially on the outside of the brackets 17 . In the exemplary embodiment, the combustion chambers 16 are bottle-shaped, with a “bottle neck” directed in the tangential direction and containing the exhaust gas outlet opening 18 . All exhaust outlet openings 18 are directed tangentially and in the same direction. A Venturi nozzle 20 is inserted in front of the inlet opening of the combustion chambers 16 , which is not described in any more detail.
+
+An ignition device 19 in the form of a normal motor vehicle spark plug is inserted into the central combustion chamber 13 , this spark plug being seated in a thread whose center line is formed by the center of rotation of the shaft 5 . As a result, the ignition device 19 rotates with the shaft 5 and the hub 15 without, however, rotating eccentrically to the center of rotation.
+
+Hub 15 , brackets 17 and combustion chambers 16 together form rotor 4 . This rotor 4 is surrounded by a protective hood 25 . If necessary, this protective hood 25 can serve as an exhaust gas duct and continue in an exhaust gas line, in which, if desired, a dust filter on the one hand and a catalyst on the other hand can be arranged. At the same time, this protective hood 25 can serve as noise protection.
+
+In a first variant, at the end of the shaft 5 facing away from the rotor 4, there is a supply unit 21 , which essentially consists of a connecting piece 26 with a molded fuel line 12 and a nozzle piece 27 inserted coaxially to the shaft 5 . The nozzle piece 27 also has a compressed air supply 11 running coaxially to the shaft 5 . The connecting piece 26 is accommodated in a housing 2 , which is supplied with compressed air from any point via a line 28 , which can enter the compressed air supply 11 via a chamber 3 , which is not absolutely necessary.
+
+The housing 2 can be carried in any manner in such an arrangement that the connector 26 can sealingly enclose the free end of the shaft 5 , so that the shaft 5 is rotatably supported in the connector 26 .
+
+The nozzle piece 27 arranged in the connecting piece 26 is conical on its side facing the shaft 5 , the free end of the shaft 5 being correspondingly conical. The arrangement of the two parts is such that a distance remains between the two cone surfaces, as shown in FIG. 1, to form an injector 10 .
+
+Fig. 3 shows an alternative to the supply unit 21 embodiment of a supply unit 21 '. While an external supply of compressed air is provided in the supply unit 21, an internal supply of compressed air can be achieved by the supply unit 21 '.
+
+In the embodiment according to FIG. 3, a rotor 22 of an axial compressor is arranged on the remaining free end of the shaft 5 , which in the exemplary embodiment is only indicated schematically as a multi-stage axial compressor. Between the individual stages of the rotor there are stators, not shown and designated, which are held by the stator housing 23 , which also serves simultaneously as an air duct and as a deflection housing 24 . The deflection takes place in such a way that the sucked-in and compressed air is deflected from the flow direction of the axial compressor in the opposite direction and is fed into the feed line 9 of the shaft 5 , as is indicated in FIG. 3 by the course of the arrows.
+
+The supply unit 21 'has a through the stator housing 23 , which may be designed as a sheet metal housing, passed through fuel line 12 '. This fuel line 12 'can be supplied with coal dust, which is either entrained by the flowing air in the injector effect, or can be supplied with a slight excess pressure. The necessary overpressure can be supplied by the axial compressor.
+
+The shaft power supplied by the engine can be taken from any point on the shaft 5 or the hub 15 . For such a decrease, the correspondingly designed free area between the end of the bearing bush 8 and the opposite end of the supply unit 21 or 21 'is particularly suitable.
+
+In order to start the engine, compressed air and coal dust are first combined and mixed in the manner described via an external supply and transported through the feed line 9 into the central chamber 13 . In this case, in the case of the embodiment according to FIG. 3, the first external supply can also take place in that the engine is driven by an external force in the manner of a starter motor, whereby the rotor 22 generates the required compressed air.
+
+When the combustible mixture has arrived in the central chamber 13 , it is ignited there by the spark plug 19 so that the flame which is now continuously burning (the spark plug is now superfluous) spreads through the branch lines 14 and flows into the combustion chambers 16 due to the flow. so that the flame from the central chamber 13 via the branch lines 14 is driven outwards and completely into the combustion chambers 16 . If the combustion chamber is ignited in this way, the pressure of the incoming combustible mixture is increased and its flow rate is also increased. The Venturi nozzles 20 arranged in front of the inlet openings of the combustion chambers 16 accelerate the incoming combustible mixture again, so that there is a high flow rate in this narrow area, which ensures that the flame does not flow back from the combustion chambers 16 during operation. The supplied compressed air is then heated up in the combustion chambers 16 due to the combustion, thereby speeding up and occurs as high accelerated in the radial to the rotor 4 in the direction from the exhaust gas outlet openings 18, so that the rotor 4 is displaced due to the recoil in rotation. Depending on the diameter of the rotor 4 and thus depending on the radial distance of the combustion chambers 16 from the axis of rotation, a more or less high speed or a correspondingly larger or smaller torque is set on the shaft 5 .
+
+The spark plug used for the commissioning described above is preferably such a spark plug using a high frequency field can ignite a powerful plasma flame. Such spark plugs are  known and therefore do not need a detailed description here.
+
+But it is also possible to ignite with a conventional piston engine spark plug. For this purpose, a flammable gas-air mixture is first supplied and ignited. The gas content in the mixture is then rapidly reduced and the proportion of coal dust increased accordingly.
+
+It should be noted at this point that all other combustible dusts can be used instead of coal dust. This also applies to e.g. B. fresh plant fibers in a suitable preparation, which also has a favorable influence on the CO 2 balance, since by burning these fibers only as much CO 2 is returned to the atmosphere as was previously removed from the plant. There is no additional supply of CO 2 .
+
+The combustion chambers 16 , which are bottle-like, are arranged on the brackets 17 in such a way that approximately the same mass protrudes in the circumferential direction on both sides of each bracket 17 , so that the bending load on the brackets 17 that occurs with one-sided mass distribution is avoided. However, the shape of the combustion chamber shown in the exemplary embodiment is by no means mandatory.
+
+Reference list
+
+1 engine
+2 housings
+3 chamber
+4 runners
+5 wave
+6 bearings
+7 bearings
+8 bearing bush
+9 feed line
+10 injector
+11 , 11 ' compressed air supply
+12 , 12 ' fuel line
+13 central chamber
+14 branch line
+15 hub
+16 combustion chambers
+17 consoles
+18 Exhaust outlet
+19 ignition device
+20 venturi nozzle
+21 , 21 ' supply unit
+22 rotor
+23 stator housing
+24 deflection housing
+25 protective cover
+26 connector
+27 nozzle piece
+28 line

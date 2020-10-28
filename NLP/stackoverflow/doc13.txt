@@ -1,0 +1,3 @@
+Is it possible to toggle the visibility of an element, using the functions .hide(), .show() or .toggle()?
+
+How would you test if an element is visible or hidden?

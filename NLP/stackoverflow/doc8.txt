@@ -1,0 +1,4 @@
+I mistakenly added files to Git using the command:
+
+git add myfile.txt
+I have not yet run git commit. Is there a way to undo this, so these files won't be included in the commit?

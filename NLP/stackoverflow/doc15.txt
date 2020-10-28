@@ -1,0 +1,9 @@
+How come certain random strings produce colors when entered as background colors in HTML? For example:
+
+<body bgcolor="chucknorris"> test </body>
+
+...produces a document with a red background across all browsers and platforms.
+
+Interestingly, while chucknorri produces a red background as well, chucknorr produces a yellow background.
+
+What’s going on here?

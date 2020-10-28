@@ -1,0 +1,66 @@
+Description
+Dec, 16, 1924.
+
+E. N. FALEs AIRCRAFT PROPULS ION Filed Jan. 17, 1921 retenue ne ie, 1924.
+
+STATES amena' n. rares,
+
+OF DAYTON, OHIO.
+
+' AERCBAFT PROPULSION.
+
+-. Application lec January i7, 1921. Serial No. 438,045.
+
+To all whom it' may concern.
+
+Be it known that l, ELISHA N. FALEs, a
+
+citizen of' the United States, residing at Dayton, in the county oit Montgomery and State of Uhio, have invented certain new and useful lmprovements in Aircraft Propulsion, ot which the following is a specification.
+
+'lhis invention relates toaircraft propull@ sion, the object oi' the invention being to eliminate the ordinary internal combustion or explosion engine now in common use, and also to eliminate the conventional propeller now in common use in aircraft. By means l5 ot the present invention, yan engine ,and propeller may be said to be combined in such a way that the hot exhaust gases oi the engine cylinders yare used ic-r actuating or driving the propeller, thereby recovering 2@ some of the heat and energy new wasted.
+
+'lhe device embodies propeller blades which may be hollow or have passageways or pipes leading from the hub to the tips thereoi2 for the purpose orD conducting gas or vapor trom a hollow propeller shalt to the propeller tips, the gas under pressure issuing as jets at the propeller tips in a direction more or less opposite to the direction oi" movement of the propeller blades. 3@ The reaction orp such iets furnishes the rotational iorce for the propeller.
+
+@ne advantage of such a device is that the torque is applied at a maximum leverage, eliminating strain in the propeller due to application of torque at the hub. The ap paratus herein fully described `iurrn'rshes means for rotating ay propeller -or other machine.
+
+wvl'ith the above and other objects in view, the invention consists in the novel construction, combination and arrangement herein fully described, Aillustrated and claimed.
+
+lnthe accompanying drawings:
+
+Fig. i is a view, partly in elevation and partly in section, oi the improved device Fig. 2 is a fragmentary sectional view or one ot' the propeller blades, showing a modified form of passageway for the exhaust gases; "l"
+
+Fig. special form of the device wherein the blade is combinedwith the cylinder of a reciprocating engine. l
+
+Fig. 4- is a similar section showing certain modifications.
+
+Vthe propeller,
+
+y2() on the engine shattflll,
+
+3 is a longitudinal section thru a ln the embodiment of the invention illus` trated inthe drawings and referring particularly to Figs. 3 and 4r, l have shown a combined engine and propeller comprising two combustion cylinders and two propeller blades, having passageways therein to carry od the products ol combustion.
+
+The propeller blades 10 may be ot hollow?.7 formation, as indicated at ll; or instead of making each propeller blade hollow, a passageway or pipe 12 may lead thru each blade longitudinally thereof, as indicated in Fig.' 2. ln each case there isa jet nozzle l at the discharge end ofthe passageway leading thru the propeller blade, which jet noz zle 'laces approximately in a rearward direction, or in a direction contrary to normal direction of rotation oli the propeller or movement ol the propeller blade. 'lhe esoapingy gases under pressure thereby react to apply a rotational torce to the propeller.
+
+The combined engine and propeller are mounted upon a tubular shalt lll, having.;1 one or more ports l5 to admit the gas continuously or intermittently, as desired, to the engine cylinders and propeller blades. Illhe hub ci the propeller. is likewise formed with ports 16 *for the same purpose.
+
+Referring more particularly to the modilication shown in llig, in which a duid is conducted into the explosive chamber from a point remote from the rotational anis of at the base ot each propeller blade, there is an engine cylinder i? containing a reciprocatory piston i8 from which a connecting rod i9 leads to a crank said shalt being stationary and non-rotary. rllhe cylinder 17 forms in eliect the shank of the respective propeller blade 10, which is clearly shown in llgures 3 and 4. Under, the arrangement. shown in Fig. 3, there is a cylinder head 2l between the cylinder proper and the propeller bla-de, the same being fitted with one or more exhaust and inlet valves 22 and- 22 respectively, which may vbe opened by any suitable mechanism for that purpose. The mixture is exploded against the piston 18'and passes by the exhaust valve 22, and through the propeller blade, issuing from the jet 13 where it reacts upon the atmosphere to drive the propeller. Under the arrangement shown in Fig. 4, the piston 18 contains an automatic inlet valve 23-in the head thereof while the cylinder head 21 is formed with a port controlled by an automatic inlet valve 24, both of these valves permitting the fluid to flow fromy the center of the pro ller outwardly but preventing a flow in t e reverse direction. In place of the automatic inlet valve 23 or in conjunction, therewith a by-pass 25 may be provided to permit the fluid to be drawn into the compressionl chamber between the head of the iston 18 and the cylinder head 21 when t e piston is in .its 1nnermost position. Under this arrangement the gasolme or'other explosive mixture used is received from the hollow shaft 16, drawn into the compression chamber, between the cylinder head in the piston whenthe piston is movedinwardly. The Huid is then compressed on the reverse motion of the piston and-when a suicient pressure has been obtained in the compression chamber the automa-tic inlet valve 24 is opened and the fluid '1s permitted to flow into the expansion .chamber where it'is then ignited by means of aspark plug 27 which m-ay be fired continuously or intermittently as may be desired. The combustion of the fluid in this expansion chamber produces a considerable pressure therein andthe exhaust and burnt gases are forced out of the outlet nozzle 13 to thereby rotate the propeller by means of the jet action produced, and the consequent reaction on the atmosphere.
+
+Where the pipe 12 is employed, it may be formed so as forAthe blade, in which case saidpipe may have its walls of greater cross-sectional area adjacent to the hub than at the tip of the propeller thereby providing for centrifu al strains. The valves may be operated y any suitable mechanical means as by a cam or crank or other suitable device, .or the mayv be electrically operated or automatlcally operated by pressure differences on opsite sides thereof. The spark plugs may located in the ex losion chamber or directly adjacent to or 1nl the jet nozzle. Electrical connections for the plugs or valves may embody 4the usual means, such as ring and brush controls.
+
+I do `not desire to be limited to the` exact arrangement hereinv shown and described, as it will be apparent that the device is susceptible of m-any changes in the form, preparation and minor details of construction which may accordingly be resorted to without departing from the principle or sacrificing andyl of the advantages of the invention'.
+
+Iclaim: 1. In aircraft propulsion, an `internal to constitute a re-enforcementshaft,
+
+ypistons mounted to reci inders and connected with said crankshaft, and propeller blades extendingfrom said combustion engine embodying an en ine shaft, 'and a plurality of cylinders w ich shaft, and a plurality of cylinders which radiate from and revolve around said shaft, pistons for compressing the gases mounted to reciprocate in said cylinders and connected with said crankshaft and propeller blades extending from said cylinders and havingpassageways for the gases from the cylinders, said passageways terminating in outlets which discharge in a direction contrary to the direction of movement -of the propeller blades and means for igniting said gases in said passageways so that the propeller is rotated by the reaction of Said gases on the atmosphere.
+
+3. In aircraft combustion engine emb shaft, and a plurality of diate from and revolve around said shaft, pistons for compressing gases mounted to reciprocate in said cylinders and connected odymg an engine cylinders which rapropulsion, an internal with said crankshaf and propeller blades extending from said cylinders, and having expansion chambers with outlets adjacent to the propeller blade tips discharging contrary to the movement of said blades-and means for igniting said compressed gasesin said passageways, rotated by the reaction of gases on the atmosphere.
+
+4. In aircraft propulsion, an internal combustion engine embodying an en ine and a plurality of cylinders w ich radiate from and revolve around said shaft,
+
+rocate in said cylsaid compressed cylinders, and having valve-controlled expansion chambers with outlets adjacent to the propeller tips which discharge in a d1- rection contrary to the direction of movement of the propeller blades,` sald pistons operating to compress the gases so that the'- propeller is rotated by the reaction of said compressed gases on the atmosphere.
+
+Inl testimony whereof I have ailixed my signature.
+
+ELISHA N. FALES.
+
+so l that the propeller isv

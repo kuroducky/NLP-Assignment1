@@ -1,0 +1,68 @@
+Description
+Feb. 28, 1961 P. SER VANTY 2,972, 2
+
+. PULSE REACTOR Filed April 27, 1959 5 Sheets-Sheet 1 I Mlle/lira MW! 427M416 P. SERVANTY PULSE REACTOR Feb. 28, 1961 3 Sheets-Sheet 2 Filed April 27, 1959 P. SERVANTY PULSE REACTOR Feb. 28, 1961 Filed April 27, 1959 3 Sheets-Sheet 3 United States Patent PULSE REACTOR Pierre Servanty, Aulnay-sous-Bois, France, assignor to Societe Nationale dEtude et de Construction de Moteurs dAviation, Paris, France, a company of France Filed Apr. 27, 1959, Ser. No. 809,108 Claims priority, application France May 6, 1958 4 Claims. (Cl. 60-3934) The present invention relates to a periodically functioning thermo-propulsive unit or so called pulse-jet engine.
+
+because of their flattened shape adopted for reducing the drag. Since the flat portions are the seat of loopsand nodes of vibrations, they become corrugated and the sections vary in the course of operation without precise geometrical definition. By splitting up of the ejector in a certain number of partial ducts this difficulty may be overcome, and a reduction of noise of the thermopropulsive pipe may be achieved, the partial ductsperforming the function of a silencer.
+
+According to a second improvement, a' fairing is mounted around the. rotating pulse reactors. This fairing permits a better aerodynamic adaptation of shapes and serves as a support fora pipe which receives air admixed to the part of combustion gases discharged by the air admission nozzles, the remnant of these combustion gases being discharged by split-up ejector nozzles. This device improves the output of the assembly by making a more efficient use of the momentum of the tubes.
+
+A third improvement concerning the application of the invention to rotary wing aircraft consists in arranging the fairing in such a manner as to give a lift which permits it to play the part of a rotary blade.
+
+According to a fourth improvement the tubes associated with the air intake nozzles are arranged in fairings forming blades difierent from those which contain the tubes associated with the thermo-propulsive pipes.
+
+In order that the present invention may be well understood there will now be described some embodiments thereof, given by way of example only, reference being had to the accompanying drawings in which:
+
+Figures 1 and 2 are plan view and elevation, respectively, of one embodiment;
+
+Figure la is a fi'amentary view of a portion of Figure 1, on a larger scale, showing the aerodynamic flap;
+
+Figure 3 shows a section of a thermo-propulsive pipe;
+
+Figures 4 and 5 are a plan view and elevation, respectively, sectioned and broken off, of a further embodiment; and
+
+Figure 6 shows a plan view of an embodiment with four blades.
+
+In the embodiment illustrated in the Figures 1 and 2, the device comprises a combustion chamber 1, two air intake ducts 2 having aerodynamic flaps for the supply of said chamber, and two ejector nozzles 3 for the combustion gases. These nozzles 3 comprise a first convergent portion 3a connected to the chamber 1 and a divergent portion 3b, each of which terminates in a certain number of partial ejector ducts 4.
+
+Thus a certain rigidity is imparted to the assembly by "ice increasing the curved surfaces, without increasing the drag. This arrangement does not involve a reduction in thrust as compared with slotted ejector devices, if the same total exit area is preserved.
+
+This modification can be made only to the ejectors, i.e. to the portion of the pulse-reactor subject to the highest stresses. In order to increase the curvatures of the surfaces in the body of the pulse-reactor, while keeping a sufiiciently reduced maximum cross section it may be advantageous to adopt a profile composed of the largest possible parts of several associated circles. Figure 3 shows in dotted lines the former oval profile, and in full lines a profile which is for example bi-circular. The two profiles have approximately the same surface and the same maximum cross section. It is remarkable that the constriction or constrictions do not involve any pressure drop since they are perpendicular to the flow.
+
+In Figures 4 and 5 the air intake nozzles 2 having aerodynamic flaps are likewise disposed in such a manner that the air is admitted tangentially into the chamber 1 and follows the centripetal flow of a vortex sink, but instead of being inclined with respect to the direction of ejection as in the Figures'l and 2, they are perpendicular thereto. A fairing 5'shelters the thermo-propulsive pipe 3 and the ejector tubes 4, and supports a conver gent-divergent pipe or trunk 6. This trunk 6, the entry 7 of which is opposite that of the air intake 2, issues in the interstices 4a between the ejector tubes 4. In order to give the fairing the maximum rigidity at the outlet part, one may put between each tube a connecting web such as 8.
+
+The suction of air at the intake of the admission nozzle 2-produces a depression in the space 9 and in the convergent portion 7 of the trunk 6, and the ambient air is accordingly sucked into the interior of the trunk 6. After combustion in the chamber 1, the combustion gases are discharged, on the one hand, into the thermopropulsive pipe 3, and on the other hand, into the air intake nozzles 2. The combustion gases discharged out of the air intake 2 push the layer of air located in the trunk 6, and the mixture is discharged through the spaces between the ejector tubes 4. Moreover, an injector-effect is produced in that the combustion gases leaving the ejector tubes 4 carry along the air coming from the trunk 6. The same injector-effect arises in the space 9, where the mixture sucked into the trunk 6 carries along the ambient air. Accordingly a dilution of the combustion gases leaving the intake 2 by the air from the trunk 6 takes place, whereby their momentum is increased. As this latter is acting remote from the axis, it has an increased moment, and the torque applied to the shaft is larger for that.
+
+In the application to helicopters and similar machines, an improvement consists in designing the fairing 5 in such a manner as to give it a lift which permits it to play the part of a rotary blade. It is moreover necessary to produce a cyclic variation of pitch by an automatic periodical rotation of the blade about its radius as an axis.
+
+According to the embodiment applied to helicopters illustrated in Figure 6, the air intake nozzles 2 are on the one hand continued each by a trunk 6 and on the other hand the thermo-propulsive pipes 3 are each continued by a trunk 6a, which trunks are situated in the same plane but angularly offset from one another. Moreover the trunks 6 and 6a are arranged in fairings shaped externally in the form of sustaining blades. These blades are carried by a support 10 fixed to the rotor and are each mounted on this support in such a manner that they can turn, as the case may be, about the axis x-x of the pipe 3 or the axis y-y of the intake nozzle 2 having an aerodynamic flap. This arrangement allows the cyclic variation of pitch of the blades in the manner known for helicopters. Between the air intake nozzles 2 and the trunks 6 the same favourable phenomena arise as described hereinab'ovei- At the sucking-in of the air into the nozzle 2 a'depression is generated and the drawing-in of air into 6; at the discharge of the combustion gases into the nozzles 2 and 3a there arises an expulsion of the air which had been renewed at the preceding stroke and of the combustion gases, with an injector-effect on the ambient atmosphere.
+
+The momentum of the flow emerging from the trunks 6a is greater than that emerging from the trunks 6, and
+
+the supporting structure will hence be designed accordingly.
+
+This device solves the problems of inter-dependence of the pulse-reactors and blades, the ones being necessarily members rigidly connected to the rotor, and the others being members which have to turn about their own axis, the rotation of the assembly about the rotor being, by the way, assured.
+
+This device has also the advantage of reducing overall dimensions and of doubling the number of blades, increasing thus the lift.
+
+The particular application to helicopters of thermopropulsive periodically functioning nozzles has been mentioned. The following further non-exclusive applications may also be mentioned:
+
+(1) Propulsion of hydroplanes, airships, starting of wind motors, etc. (self-propelling air screw),
+
+(2) Drive of pumps, industrial or agricultural machines, alternators, etc.,
+
+(3) Spreading of insecticides by helicopter; the insecticide is mixed to the engine fuel and is pulverized withoutany special device, at the outlet from the pulsereactor; The quality of the insecticide is left practically unchanged by the'combustion in which it does not take part,
+
+(4) The protection of cultivations against frost by fixed installations. soil is at about C., it has already about 5 C. at a level of some tens of metres. Air screws mounted on vertical pylons push the air towards the ground and save thus the cultivations from the frost. This device does not require When the air in contact with the 5 adjacent grid lines for the transmission of electric energy 4 of the use of electro-generator units.
+
+I claim:
+
+1. A thermo-propulsive pipe functioning periodically, suitable for driving a shaft about an axis of rotation, comprising a combustion chamber mounted coaxial with said axis of rotation, at least two ejector nozzles extending from said chamber fordischarging into the atmosphere the combustion gases of said chamber, at least two air intake ducts extending from said chamber and having aerodynamic flaps, a fairing surrounding said ejector nozzles and said air intake duct, trunks housed in said fairing and extending said air intake ducts at a distance therefrom for providing therewith a gap whereby ambient air is sucked into said ducts and said trunks.
+
+2. A therrno-propulsive pipe according to claim 1 wherein said fairing is profiled as to play the part of a turning blade.
+
+3. A thermo-propulsive pipe according to claim 1 wherein said air intake ducts and said trunks extending said ducts are housed in said fairing parallelly and close to said ejector nozzles terminating in a number of partial ducts between which said trunks terminate.
+
+4. A thermo-propulsive pipe functioning periodically, suitable for driving a shaft about an axis of rotation, comprising a combustion chamber mounted coaxial with said axis of rotation, at least two ejector nozzles extending from said chamber, first trunks extending said nozzles at a distance therefrom, first fairings housing said trunks and being profiled in the form of turning blades, at least two air intake ducts extending from said chamber and having aerodynamic flaps, second trunks extending said air intake'ducts at a distance therefrom, second fairings housing said second trunks and being profiled in the form of further turning blades separate from said first fairings.
+
+References Cited in the file of this patent UNITED STATES PATENTS 1,622,835 Marshall Mar. 29, 1927 Kundig Mar. 26, 1946 2,631,676 Hiller Mar. 17, 1953 2,805,545 Wilman Sept. 10, 1957 V FOREIGN PATENTS 369,222 Great Britain Mar. 15, 1932
