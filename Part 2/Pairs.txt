@@ -4,7 +4,7 @@
 <hospitality - good>
 
 (2)
-<room - spacious>
+<room - very spacious>
 <room - clean>
 <room - comfortable>
 <check in time - smooth>
@@ -31,11 +31,11 @@
 <parking - plentiful>
 
 (7)
-<service - nice>
+<service - so nice>
 <parking - nice>
 
 (8)
-<room - clean>
+<room - well clean>
 <room - comfortable>
 
 (9)
@@ -54,10 +54,13 @@
 <parking - full>
 
 (13)
+<channels - not more>
 
 (14)
 <room - spacious>
+<parking slots - many>
 <hotel - new>
+<bedsheets - not properly washed>
 
 (15)
 <check in - fast>
@@ -70,6 +73,8 @@
 (17)
 <room - excellent>
 <cleanliness - excellent>
+<room - not ready>
+<service - bad>
 
 (18)
 <charge - additional>
@@ -91,14 +96,16 @@
 <food - not nice>
 
 (23)
+<smell - terrible>
 
 (24)
 <air conditioning - noisy>
 <sound proof - poor>
-<bed and pillow - clean>
+<bed - clean>
+<pillow - clean>
 
 (25)
-<staff - rude>
+<staff - very rude>
 <room - dirty>
 
 (26)
