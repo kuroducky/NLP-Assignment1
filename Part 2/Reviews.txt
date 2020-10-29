@@ -1,0 +1,112 @@
+# https://www.booking.com/hotel/my/aurora.en-gb.html?aid=358407;label=metatrivago-hotel-2768509_xqdz-b4e071_los-2_nrm-1_gstadt-2_gstkid-0_curr-sgd_lang-en_mcid-10_losb-2_bw-65_bwb-41_pg-1_trvbm-a_split-00000a_defdate-1_tstar-0_trat-2_tprc-tprcd_tamnt-6_trvref-b447fadd-5e37-4e6b-b6ee-81e9fadd9f7e;sid=7800f70150d7ed14950e5e158853f58e;all_sr_blocks=276850901_265062694_0_0_0;checkin=2020-12-17;checkout=2020-12-19;dest_id=-2403412;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=276850901_265062694_0_0_0;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=276850901_265062694_0_0_0__18490;srepoch=1602579201;srpvid=f6643e8055dc0197;type=total;ucfs=1&#hotelTmpl
+
+-- Positive --
+(1)
+<1. Close to the city
+2. Comfortable and clean room
+3. Good hospitality>
+
+(2)
+<Room very spacious, clean and comfortable. Smooth check in time. Helpful staff.>
+
+(3)
+<Nearer to all the shops and jonker walk.. convenient..
+The room is spacious and clean
+Good Hospitality>
+
+(4)
+<The bed is comforting and the room was calm.>
+
+(5)
+<the location is so strategic and got parking lot to guest! and the room also soooo clean and really comfortable to stay>
+
+(6)
+<Hotel is new and clean. Secure and plentiful parking. Shampoo, toothbrushes, shower cap n slippers are all available. All my expectations are met. Highly recommended>
+
+(7)
+<I like the staff, the service so nice. The housekeeping topped up our used toiletries, and also the parking also nice.>
+
+(8)
+<The room is well clean and comfortable>
+
+(9)
+<Because of faulty air-con, the staff arranged for a new room swiftly.>
+
+(10)
+<Great location, Nice staff and Great place to stay.>
+
+-- Neutral --
+(11)
+<Location was good.
+But no breakfast...>
+
+(12)
+<stay okay without breakfast package, but parking full on the peak season>
+
+(13)
+<television not more channels..room you must pay more because want room with windows>
+
+(14)
+<Iron that provided at the corner of each level
+Spacious rooms
+Many parking slots provided
+New hotel
+The bedsheets was not properly washed. I feel itchy and it annoyed me to sleep well.>
+
+(15)
+<Check in and check out really fast.. I like the way the staff handling customers..>
+
+(16)
+<Room is clean with new cabinet
+Short of parking space>
+
+(17)
+<The room and cleanliness is excellent
+The receptionist was answering calls and doing some paper work when i was in front of the reception, it take s about 15mins before she entertained me, there are more people queueing after me too.
+I checked in ard 6pm, but she told me the room is not ready yet. What? I have to wait another 30mins. The service is bad, and she charged me the same amount even they delay my check in.
+Need improvement in this area>
+
+(18)
+<i love the water pressure in the shower.
+Additional charge of RM40 for early check-in.
+Staffs are not well trained.
+My booking did not come with breakfast.>
+
+(19)
+<The facilities could've been better, but overall enjoyable trip.>
+
+(20)
+<i arrived at about 3.00 pm but the room still not ready. need to wait 1/2 hour. The check in staff also need to improve. Maybe too old.Ask same question repeatedly.>
+
+-- Negative --
+(21)
+<the service was so poor..yesterday night my brother want borrow the mop because his son broke the cup but the staff told him that the mop at store and the store was lock..room not clean properly>
+
+(22)
+<Everything. The room is dirty. Not worth every penny! The indian receptionist is very unfriendly. The food also not nice.>
+
+(23)
+<Not up to expectation honestly .
+Rooms without window had a terrible smell .>
+
+(24)
+<Toilet door cannot lock.
+Air conditioning very noisy.
+Sound proof is poor. Can hear noises from other room.
+Bed and pillow is clean but got some smell.>
+
+(25)
+<The staff was very rude, and the rooms were dirty.>
+
+(26)
+<The room was noisy with children in other rooms loud adults in next room would not shut up ask reception 4 times for them to keep the noise down
+No breakfast and no fidge to buy your own. bathroom floor soaked with water as no lip on shower recess and toilet covered in water all in all an awful experience>
+
+(27)
+<Toilet was miserable. Not very functional>
+
+(28)
+<Service is not so good.>
+
+(29)
+<The bathroom too small to hang our clothes. No extra pillow provided.>
