@@ -3,7 +3,7 @@
 -- Positive --
 (1)
 <1. Close to the city
-2. Comfortable and clean room
+2. Room is comfortable and clean
 3. Good hospitality>
 
 (2)
@@ -15,10 +15,10 @@ The room is spacious and clean
 Good Hospitality>
 
 (4)
-<The bed is comforting and the room was calm.>
+<The bed is comfortable and the room was calm.>
 
 (5)
-<the location is so strategic and got parking lot to guest! and the room also soooo clean and really comfortable to stay>
+<the location is so strategic and got parking lot to guest! and the room also so clean and really comfortable to stay>
 
 (6)
 <Hotel is new and clean. Secure and plentiful parking. Shampoo, toothbrushes, shower cap n slippers are all available. All my expectations are met. Highly recommended>
@@ -48,7 +48,7 @@ But no breakfast...>
 
 (14)
 <Iron that provided at the corner of each level
-Spacious rooms
+Spacious room
 Many parking slots provided
 New hotel
 The bedsheets was not properly washed. I feel itchy and it annoyed me to sleep well.>
@@ -96,7 +96,7 @@ Sound proof is poor. Can hear noises from other room.
 Bed and pillow is clean but got some smell.>
 
 (25)
-<The staff was very rude, and the rooms were dirty.>
+<The staff was very rude, and the room was dirty.>
 
 (26)
 <The room was noisy with children in other rooms loud adults in next room would not shut up ask reception 4 times for them to keep the noise down

@@ -1,34 +1,42 @@
 (1)
-<room - comfortable and clean>
+<room - comfortable>
+<room - clean>
 <hospitality - good>
 
 (2)
-<room - spacious, clean and comfortable>
+<room - spacious>
+<room - clean>
+<room - comfortable>
 <check in time - smooth>
 <staff - helpful>
 
 (3)
-<room - spacious and clean>
+<room - spacious>
+<room - clean>
 <hospitality - good>
 
 (4)
-<bed - comforting>
+<bed - comfortable>
 <room - calm>
 
 (5)
 <location - strategic>
-<room - clean and really comfortable>
+<room - clean>
+<room - really comfortable>
 
 (6)
-<hotel - new and clean>
-<parking - secure and plentiful>
+<hotel - new>
+<hotel - clean>
+<parking - secure>
+<parking - plentiful>
 
 (7)
 <service - nice>
 <parking - nice>
 
 (8)
-<room - clean and comfortable>
+<room - clean>
+<room - comfortable>
 
 (9)
 <air-con - faulty>
@@ -48,18 +56,20 @@
 (13)
 
 (14)
-<rooms - spacious>
+<room - spacious>
 <hotel - new>
 
 (15)
-<check in and check out - fast>
+<check in - fast>
+<check out - fast>
 
 (16)
 <room - clean>
 <parking space - short>
 
 (17)
-<room and cleanliness - excellent>
+<room - excellent>
+<cleanliness - excellent>
 
 (18)
 <charge - additional>
@@ -76,20 +86,20 @@
 <room - not clean properly>
 
 (22)
-<room -         dirty>
+<room - dirty>
 <receptionist - unfriendly>
 <food - not nice>
 
 (23)
 
 (24)
-<Air conditioning - noisy>
+<air conditioning - noisy>
 <sound proof - poor>
 <bed and pillow - clean>
 
 (25)
 <staff - rude>
-<rooms - dirty>
+<room - dirty>
 
 (26)
 <room - noisy>
