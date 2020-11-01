@@ -69,7 +69,6 @@ In the python notebook, there will be a cell that runs
 
 ```
 !pip install vadersentiment
-
 ```
 
 The above packages are required for Vadersentiment, which is the sentiment analysis library that we chose to use for this part.
