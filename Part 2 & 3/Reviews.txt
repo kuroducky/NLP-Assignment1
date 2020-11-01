@@ -1,6 +1,5 @@
 # https://www.booking.com/hotel/my/aurora.en-gb.html?aid=358407;label=metatrivago-hotel-2768509_xqdz-b4e071_los-2_nrm-1_gstadt-2_gstkid-0_curr-sgd_lang-en_mcid-10_losb-2_bw-65_bwb-41_pg-1_trvbm-a_split-00000a_defdate-1_tstar-0_trat-2_tprc-tprcd_tamnt-6_trvref-b447fadd-5e37-4e6b-b6ee-81e9fadd9f7e;sid=7800f70150d7ed14950e5e158853f58e;all_sr_blocks=276850901_265062694_0_0_0;checkin=2020-12-17;checkout=2020-12-19;dest_id=-2403412;dest_type=city;dist=0;group_adults=2;group_children=0;hapos=1;highlighted_blocks=276850901_265062694_0_0_0;hpos=1;no_rooms=1;room1=A%2CA;sb_price_type=total;sr_order=popularity;sr_pri_blocks=276850901_265062694_0_0_0__18490;srepoch=1602579201;srpvid=f6643e8055dc0197;type=total;ucfs=1&#hotelTmpl
 
--- Positive --
 (1)
 <1. Close to the city
 2. Room is comfortable and clean
@@ -35,7 +34,6 @@ Good Hospitality>
 (10)
 <Great location, Nice staff and Great place to stay.>
 
--- Neutral --
 (11)
 <Location was good.
 But no breakfast...>
@@ -78,7 +76,6 @@ My booking did not come with breakfast.>
 (20)
 <i arrived at about 3.00 pm but the room still not ready. need to wait 1/2 hour. The check in staff also need to improve. Maybe too old.Ask same question repeatedly.>
 
--- Negative --
 (21)
 <the service was so poor..yesterday night my brother want borrow the mop because his son broke the cup but the staff told him that the mop at store and the store was lock..room not clean properly>
 
