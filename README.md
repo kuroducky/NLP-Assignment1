@@ -44,11 +44,6 @@ For this portion of the code, the user will have to download
 1) Pairs.txt and Reviews.txt
 2) Run the python notebook noun-adj pair ranker.ipynb on Jupyter Notebook.
 
-**Ensure that user has all library packages that are required to be installed before running the python notebook 
-
-If user does not have required library packages, 
-run on Anaconda Prompt
-
 In the python notebook, there will be a cell that runs 
 ```
 !pip install spacy
